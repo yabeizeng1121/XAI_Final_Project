@@ -51,8 +51,8 @@ This app is hosted on [Streamlit Cloud](https://streamlit.io/). The platform rea
 To run the app locally, follow these steps:
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/yabeizeng1121/XAI_Final_Project.git
+   cd XAI_FINAL_PROJECT
    ```
 2. Install the required dependencies:
    ```bash
